@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsr256__j2seemul">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/emulator/mobile/toolkit-lib/modules/emulator-ui-window-external-events/jsr256/code/jsr256__j2seemul.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

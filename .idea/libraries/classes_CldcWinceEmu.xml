@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="classes-CldcWinceEmu">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/emulator/mobile/toolkit-lib/process/device-manager/conf/classes-CldcWinceEmu.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

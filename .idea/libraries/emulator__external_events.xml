@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="emulator__external-events">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/emulator/mobile/toolkit-lib/modules/emulator-ui-window-external-events/window/code/emulator__external-events.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

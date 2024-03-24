@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="code">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/emulator/mobile/toolkit-lib/modules/emulator-ui-window-external-events/jsr179/code/jsr179__external-events.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/emulator/mobile/toolkit-lib/modules/emulator-ui-window-external-events/jsr179/code/jsr179__script-player.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DragAndDrop">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/samples/DragAndDrop/webstart/DragAndDrop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

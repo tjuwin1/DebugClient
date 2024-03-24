@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="code7">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/emulator/mobile/toolkit-lib/modules/emulator-ui-main/code/emulator__color-filtering.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/emulator/mobile/toolkit-lib/modules/emulator-ui-main/code/emulator__ui.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/emulator/mobile/toolkit-lib/modules/emulator-ui-main/code/emulator__screen-impl-default.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/emulator/mobile/toolkit-lib/modules/emulator-ui-main/code/emulator__keyboard-handler-impl-default.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/emulator/mobile/toolkit-lib/modules/emulator-ui-main/code/emulator__screen-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

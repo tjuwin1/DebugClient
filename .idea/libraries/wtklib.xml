@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="wtklib">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/emulator/mobile/runtimes/cldc-hi-javafx/wtklib/memprof_client.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/emulator/mobile/runtimes/cldc-hi-javafx/wtklib/kdp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

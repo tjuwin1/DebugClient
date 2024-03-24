@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="InterestingPhotos1">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/samples/InterestingPhotos/InterestingPhotos.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DisplayShelf">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/samples/DisplayShelf/webstart/DisplayShelf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

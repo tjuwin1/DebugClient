@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PhotoEffects1">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/samples/PhotoEffects/PhotoEffects.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="util__input-stream-shutdown">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/emulator/mobile/toolkit-lib/modules/stdin-shutdown/code/util__input-stream-shutdown.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

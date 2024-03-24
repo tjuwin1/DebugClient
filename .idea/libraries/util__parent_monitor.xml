@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="util__parent-monitor">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/emulator/mobile/toolkit-lib/modules/parent-monitor/code/util__parent-monitor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

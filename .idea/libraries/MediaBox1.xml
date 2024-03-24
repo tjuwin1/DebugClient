@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MediaBox1">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/samples/MediaBox/webstart/MediaBox.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

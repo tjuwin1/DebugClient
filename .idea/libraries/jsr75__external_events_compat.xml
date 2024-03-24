@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsr75__external-events-compat">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/emulator/mobile/toolkit-lib/modules/emulator-ui-window-external-events/jsr75/code/jsr75__external-events-compat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

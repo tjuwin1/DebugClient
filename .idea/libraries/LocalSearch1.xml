@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LocalSearch1">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/samples/LocalSearch/webstart/LocalSearch.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

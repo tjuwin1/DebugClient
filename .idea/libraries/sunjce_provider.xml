@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sunjce_provider">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/javafx/javafx-sdk1.3/emulator/tv/lib/ext/sunjce_provider.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
